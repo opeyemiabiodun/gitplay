@@ -1,0 +1,14 @@
+What data type?
+7.8 ------------------numeric
+"8.8" ---------------string
+67 < -11 -------------boolean
+NaN ------------------undefined
+56000 * 34 -----------numeric
+
+Right or Wrong Variable Names?
+year -----------------correct
+*64  -----------------wrong
+_%earn----------------wrong
+value ----------------correct
+salary ---------------correct
+do -------------------wrong
